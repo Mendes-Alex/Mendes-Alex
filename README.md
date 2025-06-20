@@ -6,7 +6,7 @@ Cybersicherheit ist meine Leidenschaft und ich liebe es, komplexe Herausforderun
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Mendes-Alex/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Mendes-Alex/Vulnerability Management Program Implementation)**
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
