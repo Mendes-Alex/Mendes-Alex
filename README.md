@@ -1,7 +1,7 @@
 
 # <a href="https://www.linkedin.com/in/johann-mendes/">Alex Mendes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersicherheit ist meine Leidenschaft und ich liebe es, komplexe Herausforderungen in praktischen Projekten anzugehen. Von Schwachstellenmanagement bis hin zur Bedrohungserkennung – diese Projekte ermöglichen es mir, tief in die sich ständig weiterentwickelnde Cybersicherheitslandschaft einzutauchen. Schau sie dir gerne an und überzeuge dich von meiner Arbeit zur Verbesserung von Sicherheitsabläufen und -prozessen!
 
 
 ## ⚠️ Vulnerability Management Projects
